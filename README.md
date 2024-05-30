@@ -1,6 +1,6 @@
 # Brexit_Logisitc-Regression
 
-Intepretability of logistic regression model, using Brexit data
+Intepreting a logistic regression model, using Brexit data
 
 - Brexit Report.pdf
 - brexit.csv
